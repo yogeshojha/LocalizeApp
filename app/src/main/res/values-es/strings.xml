@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizeApp</string>
+    <string name="translate_button_title">Cambiar idioma</string>
+    <string name="red_button_title">Iniciar sesión</string>
+    <string name="please_fill">* Por favor llene las informaciones correctamente.</string>
+    <string name="password_hint">tu contraseña</string>
+    <string name="normal_text">Este es un texto más que se va a localizar, simplemente presione el botón \"Cambiar idioma\" para traducir.</string>
+    <string name="name_hint">Tu nombre</string>
+    <string name="green_button_title">Regístrate</string>
+    <string name="enter_details">Introduzca sus datos para registrarse.</string>
+    <string name="email_hint">Tu correo electrónico</string>
+</resources>

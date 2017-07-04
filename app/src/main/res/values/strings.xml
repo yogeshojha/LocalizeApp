@@ -9,4 +9,10 @@
     <string name="green_button_title">SignUp</string>
     <string name="translate_button_title">Change Language</string>
     <string name="normal_text">This is one more text which is going to be localized, just press the \"Change Language\" button to translate.</string>
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+    </string-array>
 </resources>

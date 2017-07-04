@@ -119,22 +119,7 @@
                 android:background="#FF5722"
                 android:textColor="#fff"
                 android:layout_centerHorizontal="true"
-                android:layout_weight="1"
-                /> <Button
-            android:text="@string/translate_button_title"
-            android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:id="@+id/translated"
-            android:layout_marginTop="10dp"
-            android:layout_marginLeft="5dp"
-            android:layout_marginRight="5dp"
-            android:textSize="20dp"
-            android:gravity="center"
-            android:background="#FF5722"
-            android:textColor="#fff"
-            android:layout_centerHorizontal="true"
-            android:layout_weight="1"
-            />
+                />
         </LinearLayout>
     </ScrollView>
 

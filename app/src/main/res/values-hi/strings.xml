@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizeApp</string>
+    <string name="email_hint">आपका ईमेल पता</string>
+    <string name="enter_details">साइनअप करने के लिए कृपया अपना विवरण दर्ज करें</string>
+    <string name="green_button_title">साइनअप</string>
+    <string name="name_hint">आपका नाम</string>
+    <string name="normal_text">यह एक और टेक्स्ट है जो स्थानीय होने वाला है, बस अनुवाद करने के लिए \"चेंज लैंग्वेज\" बटन दबाएं।</string>
+    <string name="password_hint">आपका पासवर्ड</string>
+    <string name="please_fill">* सूचनाओं को ठीक से भरें।</string>
+    <string name="red_button_title">लॉग इन करें</string>
+    <string name="translate_button_title">भाषा बदलो</string>
+</resources>

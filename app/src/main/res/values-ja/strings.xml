@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizeApp</string>
+    <string name="email_hint">あなたの電子メール</string>
+    <string name="enter_details">申し込みの詳細を入力してください。</string>
+    <string name="green_button_title">サインアップ</string>
+    <string name="name_hint">あなたの名前</string>
+    <string name="normal_text">これはローカライズされるもう1つのテキストです。「言語の変更」ボタンを押すだけで翻訳されます。</string>
+    <string name="password_hint">あなたのパスワード</string>
+    <string name="please_fill">*情報を正しく記入してください。</string>
+    <string name="red_button_title">ログイン</string>
+    <string name="translate_button_title">言語を変えてください</string>
+</resources>
