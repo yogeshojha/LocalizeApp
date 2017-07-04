@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LocalizeApp</string>
+    <string name="enter_details">Please Enter your details to signup.</string>
+    <string name="name_hint">Your Name</string>
+    <string name="email_hint">Your Email</string>
+    <string name="password_hint">Your Password</string>
+    <string name="please_fill">*Please fill the informations properly.</string>
+    <string name="red_button_title">Login</string>
+    <string name="green_button_title">SignUp</string>
+    <string name="translate_button_title">Change Language</string>
+    <string name="normal_text">This is one more text which is going to be localized, just press the \"Change Language\" button to translate.</string>
 </resources>
